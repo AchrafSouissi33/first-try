@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## hello everyone to play better
 
 You can use the [editor on GitHub](https://github.com/swisstitantg/first-try/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
